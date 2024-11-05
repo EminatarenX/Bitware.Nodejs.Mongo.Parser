@@ -30,13 +30,6 @@ npm start
 
 ### Salida en consola
 ```js
-{
-  result: 'listo, usuarios en db',
-  user: '[{"id":"6729cce10d8045a239e96c33","name":"Alice Johnson","email":"alice.johnson@example.com"},{"id":"6729cce10d8045a239e96c34","name":"Bob Smith","email":"bob.smith@example.com"},{"id":"6729cce10d8045a239e96c35","name":"Charlie Brown","email":"charlie.brown@example.com"},{"id":"6729cce10d8045a239e96c36","name":"Diana Prince","email":"diana.prince@example.com"},{"id":"6729cce10d8045a239e96c37","name":"Ethan Hunt","email":"ethan.hunt@example.com"},{"id":"6729cce10d8045a239e96c38","name":"Fiona Gallagher","email":"fiona.gallagher@example.com"},{"id":"6729cce10d8045a239e96c39","name":"George Costanza","email":"george.costanza@example.com"},{"id":"6729cce10d8045a239e96c3a","name":"Hannah Montana","email":"hannah.montana@example.com"},{"id":"6729cce10d8045a239e96c3b","name":"Ian Malcolm","email":"ian.malcolm@example.com"},{"id":"6729cce10d8045a239e96c3c","name":"Jane Doe","email":"jane.doe@example.com"}]'
-}
-
-╭╴  eminataren via  main at …/examen_practico_nodejs took  1s via   18.20.4
-╰─󰍟 tsc
 
 ╭╴  eminataren via  main at …/examen_practico_nodejs via   18.20.4
 ╰─󰍟 npm start
