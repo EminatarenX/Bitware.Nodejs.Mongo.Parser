@@ -15,7 +15,7 @@ function main() {
         yield (0, find_create_users_1.deleteAll)();
         const result = yield (0, find_create_users_1.parseAndSaveUsers)("./usuarios.csv");
         const users = yield (0, find_create_users_1.findAll)();
-        const viewFormated = false;
+        const viewFormated = true;
         if (!viewFormated) {
             console.log({ result: result, user: JSON.stringify(users) });
         }
